@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Which one represent binary numbers?",
+    "Q2. Which component is not in CPU",
+    "Q3. Which one represent one (word)",
+    "Q4. How many bits in one byte"
+  ],
+  "answer": [
+    1,
+    4,
+    3,
+    2
+  ],
+  "options": [
+
+    ["1011",
+      "1FDB",
+      "7777",
+      "90"
+    ],
+    ["ALU",
+      "Cache",
+      "Register",
+      "Random Acess Memory"
+    ],
+    ["2 bits",
+      "1 byte",
+      "4 nibble",
+      "7 bits"
+    ],
+    ["16",
+      "8",
+      "4",
+      "2"
+    ]
+  ]
+}

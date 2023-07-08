@@ -1,0 +1,40 @@
+{
+  "question": [
+    "Q1. 1101.01Binary is equal to?",
+    "Q2. Whihc is the binary of 2 decimal",
+    "Q3. which is the decimal of 1101 binary",
+    "Q4. can binary contain below number: 1012"
+  ],
+  "answer": [
+    2,
+    4,
+    3,
+    2
+  ],
+  "options": [
+    [
+      "1001 Decimal",
+      "13.25 Decimal",
+      "6910 Decimal",
+      "1F HexaDecimal"
+    ],
+    [
+      "0100",
+      "1100",
+      "1011",
+      "0010"
+    ],
+    [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    [
+      "Cannot",
+      "Can",
+      "",
+      ""
+    ]
+  ]
+}
